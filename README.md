@@ -210,6 +210,7 @@ CPU：至少配备四核处理器，推荐使用Intel Xeon或AMD Ryzen系列，�
 # 2.1 概要设计
 ## 2.1.1 系统概要设计
 系统总体结构图
+
 ![](https://github.com/bbbbbbbird/bbbbbbbird.github.io/blob/main/zt.jpg)
 
 2.2 详细设计
