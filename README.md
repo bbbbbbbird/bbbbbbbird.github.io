@@ -46,7 +46,7 @@ mysql5.7
 可维护性：系统应易于维护和升级。
 ## 1.6 数据流图
 ## 1.6.1 顶层数据流图
-
+![https://github.com/bbbbbbbird/bbbbbbbird.github.io/blob/main/1720097165172.jpg]
 ## 1.6.2 第一层数据流图
 
 ## 1.6.3 用户信息管理数据流图
